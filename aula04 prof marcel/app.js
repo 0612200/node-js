@@ -50,9 +50,16 @@ entradaDados.question('Valor1: \n', function(numero1){
 
             }else{
 
+             //Chama a função para calcular, encaminhanfo os dados para o calculo
                resultado = matematica.calcular(valor1, valor2, operacao);
-               console.log(resultado);
-               entradaDados.close();
+             //Valida se o retorno da função é verdadeiro ou falso (se for falso, encerra o programa)
+             
+               //if (resultado == false && typeof(resultado) == 'boolean')
+               if (resultado === false) 
+                    entradaDados.close();
+               else     
+                    console.log(resultado);
+               
             }    
         });
     });

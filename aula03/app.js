@@ -1,7 +1,7 @@
 /****************************************************** 
 * Objetivo: Exercício 1 - operações matemáticas
 * Data: 30/01/2023
-* Autor: Letícia Evelin
+* Autor: Stephany
 * Versão: 1.0
 *******************************************************/
 

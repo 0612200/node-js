@@ -1,7 +1,7 @@
 /****************************************************** 
 * Objetivo: Realizar a média escolar de 4 notas doa alunos.
 * Data: 27/01/2023
-* Autor: Letícia Evelin
+* Autor: Stephany 
 * Versão: 1.0
 *******************************************************/
 
